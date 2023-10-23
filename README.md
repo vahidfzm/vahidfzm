@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - **Programming Languages**: JavaScript, TypeScript, PHP, Python, Rust
 - **Front-end**: SCSS, Tailwind, React, Angular, Vue3, StencilJs, Ionic
 - **Back-end**: Node.js, Express, Laravel, Symfony, NestJs, Flask
+- **Fullstack**: NextJs, NuxtJs
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **DevOps**: Docker, Kubernetes, Gitlab CICD, Terraform
 - **Cloud**: Amazon Web Services (AWS)
