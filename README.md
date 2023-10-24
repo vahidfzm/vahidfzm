@@ -1,4 +1,6 @@
-### Hi there 👋
+## About Me:
+👋 Full Stack Developer | DevOps and AWS Cloud Enthusiast | Blockchain Explorer
+
 
 <!--
 **vahidfzm/vahidfzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +30,5 @@ Here are some ideas to get you started:
 - **Fullstack**: NextJs, NuxtJs
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **DevOps**: Docker, Kubernetes, Gitlab CICD, Terraform
-- **Cloud**: Amazon Web Services (AWS)
-- **Blockchain**: The whole process of developing and deploying a DAPP, Solidity
+- **Cloud**: AWS (EC2, Networking, S3, ECS, EKS, ECR, ...)
+- **Blockchain**: Solidity, Remix IDE, Truffle, web3.js, web3.py, Ethereum, Binance, Openzeppelin  Contracts
